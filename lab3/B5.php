@@ -82,20 +82,11 @@ form {
 <body>
 <body>
 
-<!--
-<iframe width=800 height=600 src="amlich.php"><iframe>
--->
-
 <table align="center" width="400" border="1" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
 
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="Author" content="Ho Ngoc Duc">
-<title>Âm lịch Việt Nam @ Hồ Ngọc Đức</title>
-<script language="JavaScript" src="amlich.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="amlich.css">
 
 
